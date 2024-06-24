@@ -1,5 +1,5 @@
-# SSB HD (GLideN64)
+# SSB Reloaded (GLideN64)
 
-Super Smash Bros. HD is a texture pack for GLideN64 and Dolphin.
+SSB Reloaded is an HD texture pack for GLideN64 and [Dolphin](https://github.com/GhostlyDark/SSB-Reloaded-Dolphin).
 
-![](/ssb-hd.jpg)
+![](/ssb-reloaded.jpg)
