@@ -1,11 +1,14 @@
 {
     "configuration": {
         "autoPath": "rice",
-        "configurationVersion": 2,
+        "configurationVersion": 3,
+        "defaultOperation": "stream",
+        "defaultShift": "none",
         "hashVersion": 5
     },
     "extraFiles": [],
     "operationFilters": [],
+    "shiftFilters": [],
     "textures": [
         {
             "hashes": {
