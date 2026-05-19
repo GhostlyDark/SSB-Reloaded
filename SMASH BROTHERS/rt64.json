@@ -6,10 +6,90 @@
         "defaultShift": "none",
         "hashVersion": 5
     },
-    "extraFiles": [],
+    "extraFiles": [
+        "mod.json",
+        "thumb.dds"
+    ],
     "operationFilters": [],
     "shiftFilters": [],
     "textures": [
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "05e4ba3a7b838db9"
+            },
+            "path": "rt64\\VS Record Numbers\\0.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "c0093f66cefa3d89"
+            },
+            "path": "rt64\\VS Record Numbers\\1.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "238b8790a02a5ea2"
+            },
+            "path": "rt64\\VS Record Numbers\\2.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "0c58b0d2dc4d4b6a"
+            },
+            "path": "rt64\\VS Record Numbers\\3.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "72173cc01f2c797a"
+            },
+            "path": "rt64\\VS Record Numbers\\4.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "8207d41364cebff0"
+            },
+            "path": "rt64\\VS Record Numbers\\5.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "a98b65049b35b8f4"
+            },
+            "path": "rt64\\VS Record Numbers\\6.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "20c5135043338dfc"
+            },
+            "path": "rt64\\VS Record Numbers\\7.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "241c4fbc1f798891"
+            },
+            "path": "rt64\\VS Record Numbers\\8.png"
+        },
+        {
+            "hashes": {
+                "rice": "",
+                "rt64": "a8e12d16b44580b3"
+            },
+            "path": "rt64\\VS Record Numbers\\9.png"
+        },
+        {
+            "hashes": {
+                "rice": "e56f908e#2#0#41df3fda",
+                "rt64": "ba20a3c94705edfb"
+            },
+            "path": "rt64\\Bonus Stages\\e56f908e#2#0#41df3fda.png"
+        },
         {
             "hashes": {
                 "rice": "fc86c867#0#2",
@@ -863,13 +943,6 @@
                 "rt64": "0b2c9f1e436c97f2"
             },
             "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "e56f908e#2#0#41df3fda",
-                "rt64": "ba20a3c94705edfb"
-            },
-            "path": "rt64\\Bonus Stages\\e56f908e#2#0#41df3fda.png"
         },
         {
             "hashes": {
@@ -47847,76 +47920,6 @@
                 "rt64": "1bf7c1796b319feb"
             },
             "path": ""
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "05e4ba3a7b838db9"
-            },
-            "path": "rt64\\VS Record Numbers\\0.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "c0093f66cefa3d89"
-            },
-            "path": "rt64\\VS Record Numbers\\1.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "238b8790a02a5ea2"
-            },
-            "path": "rt64\\VS Record Numbers\\2.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "0c58b0d2dc4d4b6a"
-            },
-            "path": "rt64\\VS Record Numbers\\3.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "72173cc01f2c797a"
-            },
-            "path": "rt64\\VS Record Numbers\\4.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "8207d41364cebff0"
-            },
-            "path": "rt64\\VS Record Numbers\\5.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "a98b65049b35b8f4"
-            },
-            "path": "rt64\\VS Record Numbers\\6.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "20c5135043338dfc"
-            },
-            "path": "rt64\\VS Record Numbers\\7.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "241c4fbc1f798891"
-            },
-            "path": "rt64\\VS Record Numbers\\8.png"
-        },
-        {
-            "hashes": {
-                "rice": "",
-                "rt64": "a8e12d16b44580b3"
-            },
-            "path": "rt64\\VS Record Numbers\\9.png"
         },
         {
             "hashes": {

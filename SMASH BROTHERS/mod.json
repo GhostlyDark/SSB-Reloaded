@@ -1,0 +1,12 @@
+{
+    "authors" : [
+        "GhostlyDark"
+    ],
+    "description" : "Super Smash Bros. HD texture pack",
+    "display_name" : "SSB Reloaded",
+    "game_id" : "ssb",
+    "id" : "SSB-Reloaded",
+    "minimum_recomp_version" : "0.0.1",
+    "short_description" : "HD texture pack",
+    "version" : "2.0.1"
+}
