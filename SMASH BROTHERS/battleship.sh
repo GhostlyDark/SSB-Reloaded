@@ -17,7 +17,7 @@ PORT="_build/SSB Reloaded (BattleShip)"
 
 # Remove and recreate work directories
 
-rm -drf "$PORT"
+rm -rf "$PORT"
 mkdir -p "$PORT"
 
 
